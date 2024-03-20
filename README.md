@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @RahimovIlhom
-- 👀 I find programming very interesting
-- 🌱 I am currently learning the python programming language
-- 💞️ I want to work with google, samsung, iphone and other big companies
 - 📫 How to reach me: 
 Instagram: ilhomjon_dev
 E-mail: ilhomjonrahimov217@gmail.com
